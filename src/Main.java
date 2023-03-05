@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args){
-        System.out.println("Namaste!");
+        System.out.println("!!Namaste!!");
         Scanner sc = new Scanner(System.in);
         System.out.println("choose one number");
         int a = sc.nextInt();
